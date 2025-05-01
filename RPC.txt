@@ -1,8 +1,8 @@
-details=Блак бабуес
-state=Bluezz v2 Version
+details=ЛУЧШИЙ ФРИ ЭМУЛЯТОР
+state=EZZCAPE V2
 img=large_img
-imgtext=Лучший кастомный эмулятор
-btn1label=Лс Создателя
-btn1url=https://t.me/doka_ezzz
-btn2label=About
-btn2url=https://t.me/doka159/1483
+imgtext=ЛУЧШИЙ ФРИ ЭМУЛЯТОР
+btn1label=ТГ КАНАЛ
+btn1url=https://t.me/doka_ezz
+btn2label=СКАЧАТЬ
+btn2url=https://t.me/doka_ezz
