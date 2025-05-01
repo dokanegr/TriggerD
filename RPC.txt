@@ -1,7 +1,7 @@
-details=ЛУЧШИЙ ФРИ БС
+details=ЛУЧШИЙ ФРИ ЭМУЛЯТОР
 state=EZZCAPE V2
 img=large_img
-imgtext=ЛУЧШИЙ ФРИ БС
+imgtext=ЛУЧШИЙ ФРИ ЭМУЛЯТОР
 btn1label=ТГ КАНАЛ
 btn1url=https://t.me/doka_ezz
 btn2label=СКАЧАТЬ
