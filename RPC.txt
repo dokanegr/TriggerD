@@ -1,4 +1,4 @@
-details=Лучший кастомный эмулятор
+details=Блак бабуес
 state=Bluezz v2 Version
 img=large_img
 imgtext=Лучший кастомный эмулятор
