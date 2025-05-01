@@ -1,8 +1,8 @@
-Лучший кастомный эмулятор
-Bluezz v2 Version
-large_img
-Лучший кастомный эмулятор
-Лс Создателя
-https://t.me/doka_ezzz
-About
-https://t.me/doka159/1483
+details=Лучший кастомный эмулятор
+state=Bluezz v2 Version
+img=large_img
+imgtext=Лучший кастомный эмулятор
+btn1label=Лс Создателя
+btn1url=https://t.me/doka_ezzz
+btn2label=About
+btn2url=https://t.me/doka159/1483
