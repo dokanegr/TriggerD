@@ -1,7 +1,7 @@
 version=EZZCAPE V2
 supportLabel=ЛС В ТГ:
 websiteLabel=ТГК:
-supportMailLabel=СОСАЛ:
+supportMailLabel=СОСАЛДА:
 supportEMailName=@whystarlixBS
 supportEMailUrl=https://t.me/whystarlixBS
 link1Name=@doka_ezz
