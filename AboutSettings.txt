@@ -1,10 +1,10 @@
 version=EZZCAPE V2
-supportLabel=ДВИЖОК
+supportLabel=ДВИЖОК:
 websiteLabel=ТГК:
-supportMailLabel=ПОМОГАЛ:
+supportMailLabel=АНДРОЙД:
 supportEMailName=@whystarlixBS
 supportEMailUrl=https://t.me/whystarlixBS
 link1Name=@doka_ezz
 link1Url=https://t.me/doka_ezz
-link2Name=@doka_ezzz
+link2Name=@dantez
 link2Url=https://t.me/dantezhxf
