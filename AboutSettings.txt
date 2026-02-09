@@ -1,4 +1,4 @@
-version=ДАНСАК ЖОСКО СОСАЛ
+version=ДАНСАК СОСАЛ
 supportLabel=ДВИЖОК:
 websiteLabel=ТГК:
 supportMailLabel=АНДРОЙД:
@@ -8,4 +8,5 @@ link1Name=@doka_ezz
 link1Url=https://t.me/doka_ezz
 link2Name=@dantez
 link2Url=https://t.me/dantezhxf
+
 
